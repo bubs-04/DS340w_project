@@ -60,12 +60,6 @@ The hybrid ensemble achieved the best performance across all metrics.
 ## Project Structure
 ```text
 .
-├── data/
-├── notebooks/
-│   └── DS340W_project.ipynb
-├── outputs/
-│   ├── plots/
-│   └── results/
-├── paper/
-│   └── Explainable_Hybrid_Ensemble_Framework.pdf
-└── README.md
+├── Parent Paper Information/
+├── DS340W_project.ipynb
+├── README.md
