@@ -61,5 +61,8 @@ The hybrid ensemble achieved the best performance across all metrics.
 ```text
 .
 ├── Parent Paper Information/
-├── DS340W_project.ipynb
-├── README.md
+│   ├── Dataset Link                         # Link to dataset used in reference paper
+│   ├── Explainable AI based LightGBM...     # Reference research paper file
+│   └── Parent Paper Link                    # Source link to parent paper
+├── DS340W_project.ipynb                     # Main notebook (data processing, modeling, evaluation)
+├── README.md                               # Project documentation
